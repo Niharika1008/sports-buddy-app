@@ -1,15 +1,13 @@
-# 🏅 Sports Buddy
-
-### 🔗 [Live Demo]()
+# 🏅 Sports Buddy(eduTime)
 
 
-**Sports Buddy** is a dynamic web application designed to connect sports enthusiasts. Whether you're looking for a casual game, a training partner, or exciting local sports events, **Sports Buddy** helps you discover, join, and organize sporting events effortlessly.
+**Sports Buddy** is a dynamic web application connecting different sports. Whether you're looking for a casual game, or exciting local sports events, **Sports Buddy** helps you discover, join, and organize sporting events effortlessly.
 
 ---
 
 ## ✨ Features
 
-- 🎯 **Browse Sports Categories** – Filter events and find buddies based on your preferred sport (Football, Cricket, Volleyball, E-Sports, etc.).
+- 🎯 **Browse Sports Categories** – Filter events of your preferred sport (Football, Cricket, Volleyballetc.).
 - 📆 **Discover Upcoming Events** – View and explore live sports events in your location.
 - ✅ **Join / Leave Events** – Manage your participation in events easily.
 - 📝 **Create Your Own Events** – Organize and host games, tournaments, and meetups.
@@ -38,9 +36,6 @@
   - ⚙️ (config via `.env.local`)
 
 ---
-
-## ⚙️ Setup & Installation
-
 
 
 ### 🧩 1. Clone the Repository
